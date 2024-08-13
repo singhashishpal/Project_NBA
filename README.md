@@ -1,2 +1,3 @@
 # Project_NBA
 This is a public repo for Project 1 of DA Bootcamp with UofT. This project is based on NBA Seasons where in we are analyzing data from 2012-2024 seasons.
+Question 1 Visualization 2 Analysis: This pie chart shows the regular season performance of five top NBA players: LeBron James, Kevin Durant, Stephen Curry, Giannis Antetokounmpo, and Nikola Jokic. LeBron James leads with 21.2%, followed by Nikola Jokic at 20.7% and Giannis Antetokounmpo at 20.2%. Kevin Durant and Stephen Curry each contribute 18.9%. While LeBron has a slight edge, the performances of these players are very close, showing a highly competitive season.
