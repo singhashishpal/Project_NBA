@@ -88,6 +88,25 @@ Conclusion:
 Comparing points scored by teams in the regular season versus the playoffs provides a comprehensive understanding of a team’s performance under different conditions. It highlights consistency, adaptability, and pressure-handling, while offering insights for coaches, management, analysts, and fans. These comparisons are invaluable for assessing a team’s true capabilities and potential for success in high-stakes environments like the playoffs.
 
 
-![Playoffs vs Regular season Teams Performance](NBA%20Dataset\Figures\Playoffs_vs_Regular_season_Teams_Performance.png)
+![Playoffs vs Regular season Teams Performance](Playoffs_vs_Regular_season_Teams_Performance.png)
 
+
+***********************************************************************************************************************
+
+Question 5 Analysis: How 3 pointers in both season types over years 2012-2024 changed the scoring trends of NBA?
+
+* Regular Season
+
+- From this graph, we see an upwards trend when we analyse the total three pointers scored across 2012-2024
+- Which shows us that in recent years, there has been increasing emphasis on scoring Three Pointers.
+
+![Total_3_Pointers_Scored_in_a_Regular_Season](Total_3_Pointers_Scored_in_a_Regular_Season.png)
+
+* Playoff Season
+
+- Similarly in Playoffs as well, we see an upwards trend for scoring three pointers. 
+- This helps us in analysing how the scoring trends have changed in the past 12 years and how three pointers are influencing strategies and game plans of all the teams. 
+
+![Total 3 Pointers Scored in a Playoff Season](Total_3_Pointers_Scored_in_a_Playoff_Season.png)
+***********************************************************************************************************************
 
