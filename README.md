@@ -41,7 +41,7 @@ The statistical significance of this relationship is further supported by a p-va
 This implies that the correlation between efficiency and points is not due to random chance, and there is strong evidence that an increase in player efficiency is associated with an increase in points scored.
 
 
-![Efficiency vs Points](Efficiency vs Points.png)
+![Efficiency vs Points](Efficiency_vs_Points.png)
 
 
 ***********************************************************************************************************************
@@ -56,7 +56,7 @@ This was achieved by first calculating the points scored by a player per minute.
 A threshold of at least 2000 points was applied to fetch the players that had a “Minutes Played” value higher than 2000 in a list of 1186 rows.
 This was then shortened by selecting the top 15 from that list to be made available for a visual representation.
 
-![Players vs Points Per Min Played](Players vs Points Per Min Played.png)
+![Players vs Points Per Min Played](Players_vs_Points_Per_Min_Played.png)
 
 According to the bar graph, it can be seen that James Harden (Houston cougars), has the highest PPM in two seasons; 0.98 (2018-19) and 0.94(2019-20). Followed by Giannis (Milwaukee Bucks), who also has two high scoring seasons on the list; 0.97(2022-23) and 0.91(2021-22). In third place we have Joel Embiid (Philadelphia 76ers) with a high PPM in two seasons; 0.96(2022-23) and 0.91(2021-22). 
 It can be observed that Gianni and Joel have had the same PPM in the years 2022-23. 
@@ -75,11 +75,11 @@ Comparing the points scored by teams in both the regular season and playoffs off
 
 We are comparing how the teams as a whole have fared in the playoffs and the regular season. We started off by grouping the teams together and calculating the sum of points scored by all the players belonging to those teams over the period of 10 years.
 
-![PlayOff Points](PlayOff Points.png)
+![PlayOff Points](PlayOff_Points.png)
 
 In the playoff seasons, it can be seen that the highest scorer with 17500 points in total is Golden State Warriors from San Francisco. This is a commendable feat as this is an amalgamation of 10 years and also shows the consistency of the team. In second place we have the Boston Celtics from Boston, followed by the Milwaukee Bucks.
 
-![Regular Season Points](Regular Season Points.png)
+![Regular Season Points](Regular_Season_Points.png)
 
 The above graph represents the scores in the regular season. The scale is much higher in the regular season as the time in which the regular season runs is for about 5 months, whereas, playoffs are only for about a month or two.
 Taking that into consideration, there are very minor changes in the scores of the teams. The highest being LA Clippers who are very closely followed by Milwaukee Bucks and in third place is the Oklahoma City Thunder.
@@ -88,6 +88,6 @@ Conclusion:
 Comparing points scored by teams in the regular season versus the playoffs provides a comprehensive understanding of a team’s performance under different conditions. It highlights consistency, adaptability, and pressure-handling, while offering insights for coaches, management, analysts, and fans. These comparisons are invaluable for assessing a team’s true capabilities and potential for success in high-stakes environments like the playoffs.
 
 
-![Playoffs vs Regular season Teams Performance](Figures\Playoffs vs Regular season Teams Performance.png)
+![Playoffs vs Regular season Teams Performance](Figures\Playoffs_vs_Regular_season_Teams_Performance.png)
 
 
