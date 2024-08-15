@@ -88,6 +88,6 @@ Conclusion:
 Comparing points scored by teams in the regular season versus the playoffs provides a comprehensive understanding of a team’s performance under different conditions. It highlights consistency, adaptability, and pressure-handling, while offering insights for coaches, management, analysts, and fans. These comparisons are invaluable for assessing a team’s true capabilities and potential for success in high-stakes environments like the playoffs.
 
 
-![Playoffs vs Regular season Teams Performance](Figures\Playoffs_vs_Regular_season_Teams_Performance.png)
+![Playoffs vs Regular season Teams Performance](NBA%20Dataset\Figures\Playoffs_vs_Regular_season_Teams_Performance.png)
 
 
