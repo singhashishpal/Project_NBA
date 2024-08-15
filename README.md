@@ -27,9 +27,9 @@ Giannis Antetokounmpo was more effective in the regular season (20.2%) but exper
 
 Overall, LeBron James stands out as the best performer in both the regular season and playoffs, while Nikola Jokic and Kevin Durant show consistent performance across both stages.    
 
-![Playoff_Season_Performance_Top5](image.png)
+![Playoff_Season_Performance_Top5](Playoff_Season_Performance_Top5.png)
 
-![Regular_Season_Performance_Top5](image-1.png)
+![Regular_Season_Performance_Top5](Regular_Season_Performance_Top5.png)
 
 
 ***********************************************************************************************************************
@@ -41,7 +41,7 @@ The statistical significance of this relationship is further supported by a p-va
 This implies that the correlation between efficiency and points is not due to random chance, and there is strong evidence that an increase in player efficiency is associated with an increase in points scored.
 
 
-![Efficiency vs Points](image-2.png)
+![Efficiency vs Points](Efficiency vs Points.png)
 
 
 ***********************************************************************************************************************
@@ -56,7 +56,7 @@ This was achieved by first calculating the points scored by a player per minute.
 A threshold of at least 2000 points was applied to fetch the players that had a “Minutes Played” value higher than 2000 in a list of 1186 rows.
 This was then shortened by selecting the top 15 from that list to be made available for a visual representation.
 
-![Players vs Points Per Min Played](image-3.png)
+![Players vs Points Per Min Played](Players vs Points Per Min Played.png)
 
 According to the bar graph, it can be seen that James Harden (Houston cougars), has the highest PPM in two seasons; 0.98 (2018-19) and 0.94(2019-20). Followed by Giannis (Milwaukee Bucks), who also has two high scoring seasons on the list; 0.97(2022-23) and 0.91(2021-22). In third place we have Joel Embiid (Philadelphia 76ers) with a high PPM in two seasons; 0.96(2022-23) and 0.91(2021-22). 
 It can be observed that Gianni and Joel have had the same PPM in the years 2022-23. 
@@ -75,7 +75,7 @@ Comparing the points scored by teams in both the regular season and playoffs off
 
 We are comparing how the teams as a whole have fared in the playoffs and the regular season. We started off by grouping the teams together and calculating the sum of points scored by all the players belonging to those teams over the period of 10 years.
 
-![PlayOff Points](image-4.png)
+![PlayOff Points](PlayOff Points.png)
 
 In the playoff seasons, it can be seen that the highest scorer with 17500 points in total is Golden State Warriors from San Francisco. This is a commendable feat as this is an amalgamation of 10 years and also shows the consistency of the team. In second place we have the Boston Celtics from Boston, followed by the Milwaukee Bucks.
 
