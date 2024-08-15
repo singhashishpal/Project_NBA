@@ -79,7 +79,7 @@ We are comparing how the teams as a whole have fared in the playoffs and the reg
 
 In the playoff seasons, it can be seen that the highest scorer with 17500 points in total is Golden State Warriors from San Francisco. This is a commendable feat as this is an amalgamation of 10 years and also shows the consistency of the team. In second place we have the Boston Celtics from Boston, followed by the Milwaukee Bucks.
 
-![Regular Season Points](image-5.png)
+![Regular Season Points](Regular Season Points.png)
 
 The above graph represents the scores in the regular season. The scale is much higher in the regular season as the time in which the regular season runs is for about 5 months, whereas, playoffs are only for about a month or two.
 Taking that into consideration, there are very minor changes in the scores of the teams. The highest being LA Clippers who are very closely followed by Milwaukee Bucks and in third place is the Oklahoma City Thunder.
@@ -88,6 +88,6 @@ Conclusion:
 Comparing points scored by teams in the regular season versus the playoffs provides a comprehensive understanding of a team’s performance under different conditions. It highlights consistency, adaptability, and pressure-handling, while offering insights for coaches, management, analysts, and fans. These comparisons are invaluable for assessing a team’s true capabilities and potential for success in high-stakes environments like the playoffs.
 
 
-![Playoffs vs Regular season Teams Performance](NBA Dataset\Figures\Playoffs vs Regular season Teams Performance.png)
+![Playoffs vs Regular season Teams Performance](Figures\Playoffs vs Regular season Teams Performance.png)
 
 
